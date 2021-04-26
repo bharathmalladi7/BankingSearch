@@ -37,6 +37,8 @@ Method1:
       For eg:
       Enter CITY 
       New York
+      
+      
       ID                    Bank Name             Type                  City                  State                 Zip Code              
       1                     Amazing Bank          Branch                New York              NY                    10018                 
       2                     Neighborhood Bank     Branch                New York              NY                    10020                 
