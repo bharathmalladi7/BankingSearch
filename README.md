@@ -54,4 +54,24 @@ Method1:
  3. Execute below command
     java -jar BankingSearch-1.0-SNAPSHOT.jar
  4. Follow step 4 to 6 in Method1 to get output.
+
+
+
+ # Unit Test Cases
  
+ Unit Test Cases for this project can be written using Java JUnit.
+ 
+ Practice: 
+ 1. To make sure that code is not breaking any where, all the methods and all conditions in each method should be covered in test cases.
+ 2. Each test case should not contain more than one assert statement. This practice is to make sure that we know exactly where code is breaking.
+ 3. Maximum lines of code should be covered in test cases.
+ 4. Test cases should be written for edge cases as well.
+ 
+ By keeping above practices in mind, test cases for this project will be as below:
+ 1. Case 1 - Test whether CSV file is getting imported.
+ 2. Case 2 - Test filter by ZIP CODE
+ 3. Case 3 - Test filter by STATE
+ 4. Case 4 - Test filter by CITY
+ 5. Case 5 - Test filter by TYPE
+ 6. Case 6 - Test filter by BANK NAME
+ 7. Case 7 - Test filter by CITY & STATE
