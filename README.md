@@ -79,4 +79,8 @@ Method1:
 
 
 # Integration Test
-The main integration in this project is not to break the flow of importing CSV, asking user to select filter and display filter results. So, a test case have to be designed to tetst these three functionalities. 
+The main integration in this project is the flow of three functionalities.
+  1. Importing CSV
+  2. Asking user to select filter and
+  3. Display filter results. 
+So, a test case have to be designed to test these three functionalities as a flow. 
