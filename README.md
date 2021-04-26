@@ -1,4 +1,4 @@
-# BankingSearch
+# BankingSearch - Execution steps
 
 This is a Maven project. 
 
@@ -57,11 +57,11 @@ Method1:
 
 
 
- # Unit Test Cases
+ # Unit Test
  
  Unit Test Cases for this project can be written using Java JUnit.
  
- Practice: 
+ Practices: 
  1. To make sure that code is not breaking any where, all the methods and all conditions in each method should be covered in test cases.
  2. Each test case should not contain more than one assert statement. This practice is to make sure that we know exactly where code is breaking.
  3. Maximum lines of code should be covered in test cases.
@@ -75,3 +75,7 @@ Method1:
  5. Case 5 - Test filter by TYPE
  6. Case 6 - Test filter by BANK NAME
  7. Case 7 - Test filter by CITY & STATE
+
+
+# Integration Test
+The main integration in this project is not to break the flow of importing CSV, asking user to select filter and display filter results. So, a test case have to be designed to tetst these three functionalities. 
