@@ -12,6 +12,7 @@ How to execute this project?
 
 Method1: 
   1. Download or Clone project from Git HUb.
+  
       git clone git@github.com:bharathmalladi7/BankingSearch.git
       
   2. If you have any IDEs like IntelliJ, Eclipse or VisualStudioCode, open this project and Setup JDK on this project
